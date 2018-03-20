@@ -7,6 +7,16 @@ h1 {
 }
 
 .panel {
+  font-size: 1.5em;
   padding: 20px;
   min-height: 300px;
+  background-color: #bce8f1;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.back {
+  display: none;
 }
