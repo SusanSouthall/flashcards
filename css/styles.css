@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  margin: 20px auto;
+}
+
+.panel {
+  padding: 20px;
+  min-height: 300px;
+}
